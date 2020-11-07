@@ -12,7 +12,7 @@ const useStyles = makeStyles(theme => ({
     },
     gridList: {
         width: 500,
-        height: 450,
+        height: 700,
     },
     card: {
 		border: "1px solid black"
